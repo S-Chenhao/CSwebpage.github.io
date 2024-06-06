@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chenhao Si(司辰昊)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. student in CHUK-SZ"
+  location         : "Shenzhen"
+  employer         : "Chinese University of Hongkong, Shenzhen"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "222042011@link.cuhk.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
