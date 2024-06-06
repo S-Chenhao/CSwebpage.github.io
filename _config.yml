@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Chenhao Si"
 description              : &description "personal description"
-url                      : https://CSwebpage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://s-chenhao.github.io/CSwebpage.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "S-Chenhao/CSwebpage.github.io"
 
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chenhao Si(司辰昊)"
-  pronouns         : # example: "she/her"  
+  pronouns         : He/Him# example: "she/her"  
   bio              : "Ph.D. student in CHUK-SZ"
   location         : "Shenzhen"
   employer         : "Chinese University of Hongkong, Shenzhen"
-  uri              : https://CSwebpage.github.io
+  uri              : https://s-chenhao.github.io/CSwebpage.github.io/
   email            : "222042011@link.cuhk.edu.cn" 
 
   # Academic websites
